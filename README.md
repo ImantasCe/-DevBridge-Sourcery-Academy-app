@@ -1,5 +1,10 @@
 
 DevBridge Sourcery Academy 2021 app. Team Inbif work.
+### To login:
+userName: John Doe<br />
+password: inbif<br />
+Or in UserContext.jsx line 22, set isLoggedIn to true
+
 ## Run the project
 
 - To run this project you will need [Node](https://nodejs.org/en/). We strongly recommend to use [nvm](https://github.com/nvm-sh/nvm) for installing node.
@@ -17,12 +22,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
-
-### `To login`
-userName: John Doe<br />
-password: inbif<br />
-Or in UserContext.jsx line 22, set isLoggedIn to true
-
 
 ### `npm run lint`
 
