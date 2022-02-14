@@ -1,5 +1,5 @@
 
-DevBridge Sourcery Academy 2021 app. Team Inbif work.
+DevBridge Sourcery Academy 2021 app.
 ### To login:
 userName: John Doe<br />
 password: inbif<br />
